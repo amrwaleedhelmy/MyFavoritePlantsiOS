@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Sunflower",
+        "category": "Flowers",
+        "scientificName": "Helianthus annuus",
+        "availability": "North America, Russia, Ukraine, Argentina, and China",
+        "description": "A striking flower characterized by its large, golden-yellow petals and a dark center. Sunflowers have become a global symbol of brightness and warmth. Beyond their ornamental value, they are cultivated for their edible seeds and oil",
+        "imageName": "Sunflower",
+        "isFavorite": true,
+        "isFeatured": true
+    },
+    {
+        "id": 2,
+        "name": "Cherry Blossom",
+        "category": "Flowers",
+        "scientificName": "Prunus serrulata (specifically for the Japanese cherry blossom)",
+        "availability": "Japan, North Korea, South Korea, and China",
+        "description": "Cherry blossoms, or sakura, are iconic symbols of fleeting beauty and the arrival of spring. Adorning cherry trees with delicate pink and white petals, these flowers create a breathtaking spectacle. In Japanese culture, cherry blossoms signify the transient nature of life and evoke a sense of appreciation for the present moment.",
+        "imageName": "cherry_blossom",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "id": 3,
+        "name": "Lavender",
+        "category": "Flowers",
+        "scientificName": "Lavandula",
+        "availability": "North Africa, the Middle East, India, France, and Spain",
+        "description": "This flower is celebrated for its aromatic foliage and delicate purple flowers. With a soothing fragrance, lavender has been used for centuries in aromatherapy and as a culinary herb. Its calming properties and picturesque appearance make it a favorite in gardens and for crafting various products.",
+        "imageName": "lavender",
+        "isFavorite": true,
+        "isFeatured": true
+    },
+    {
+        "id": 4,
+        "name": "Lily",
+        "category": "Flowers",
+        "scientificName": "Lilium",
+        "availability": "North America, Europe, and Asia",
+        "description": "Lilies, belonging to the Lilium genus, are elegant and vibrant flowers with a rich history in various cultures. Known for their graceful petals and captivating fragrance, lilies come in a variety of colors and forms. They symbolize purity, renewal, and the essence of life, making them a popular choice for gardens and floral arrangements.",
+        "imageName": "lily",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "id": 5,
+        "name": "Rose",
+        "category": "Flowers",
+        "scientificName": "Rosa",
+        "availability": "Europe, Asia, and North America",
+        "description": "These are timeless and diverse flowers known for their enchanting fragrance and elegant appearance. With a wide spectrum of colors and forms, roses are emblematic of love and beauty. Roses have been cultivated for centuries and hold a significant place in various cultures and traditions.",
+        "imageName": "rose",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "id": 6,
+        "name": "Tulip",
+        "category": "Flowers",
+        "scientificName": "Tulipa",
+        "availability": "North Africa, Southern Europe, Middle East, and Central Asia",
+        "description": "Tulips are bulbous flowers renowned for their vibrant colors and diverse shapes. Native to Eurasia, tulips have been cultivated worldwide, becoming synonymous with elegance and the arrival of spring. Their unique charm and association with renewal make them a perennial favorite in gardens and floral arrangements.",
+        "imageName": "tulip",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+        {
+            "id": 7,
+            "name": "Cabbage",
+            "category": "Vegetables",
+            "scientificName": "Brassica oleracea var. capitata",
+            "availability": "Worldwide",
+            "description": "Cabbage is a leafy green or purple vegetable with tightly packed leaves forming a round or oblong head. It is a versatile vegetable used in various culinary dishes, known for its crunchy texture and nutritional benefits. Cabbage can be enjoyed raw in salads, fermented as sauerkraut, or cooked in soups and stir-fries.",
+            "imageName": "cabbage",
+            "isFavorite": true,
+            "isFeatured": true
+        },
+        {
+            "id": 8,
+            "name": "Eggplant",
+            "category": "Vegetables",
+            "scientificName": "Solanum melongena",
+            "availability": "Asia, Africa, Europe, and North America",
+            "description": "Eggplant, also known as aubergine, is a purple or black glossy vegetable with a unique, mild flavor. It is a staple in various cuisines worldwide and can be grilled, roasted, sautéed, or used in dishes like moussaka and ratatouille. Eggplants are a good source of fiber and antioxidants.",
+            "imageName": "eggplant",
+            "isFavorite": false,
+            "isFeatured": false
+        },
+        {
+            "id": 9,
+            "name": "Grape",
+            "category": "Fruits",
+            "scientificName": "Vitis vinifera",
+            "availability": "Worldwide",
+            "description": "Grapes are small, juicy fruits that grow in clusters on vines. They come in various colors, including red, green, and purple. Grapes are not only delicious but also used to produce wine and raisins. Rich in antioxidants, grapes contribute to heart health and overall well-being.",
+            "imageName": "grape",
+            "isFavorite": true,
+            "isFeatured": true
+        },
+        {
+            "id": 10,
+            "name": "Strawberry",
+            "category": "Fruits",
+            "scientificName": "Fragaria × ananassa",
+            "availability": "Worldwide",
+            "description": "Strawberries are sweet, red berries that are not only delectable but also packed with vitamins and antioxidants. Whether eaten fresh, added to desserts, or blended into smoothies, strawberries are a versatile fruit enjoyed globally. They symbolize the sweetness of spring and early summer.",
+            "imageName": "strawberry",
+            "isFavorite": false,
+            "isFeatured": false
+        },
+        {
+            "id": 11,
+            "name": "Tomato",
+            "category": "Vegetables",
+            "scientificName": "Solanum lycopersicum",
+            "availability": "Worldwide",
+            "description": "Tomatoes are red, juicy fruits commonly used as vegetables in culinary applications. Whether sliced in salads, cooked into sauces, or enjoyed as a snack, tomatoes are a versatile and nutritious ingredient. They are rich in vitamins, minerals, and antioxidants.",
+            "imageName": "tomato",
+            "isFavorite": false,
+            "isFeatured": false
+        },
+        {
+            "id": 12,
+            "name": "Watermelon",
+            "category": "Fruits",
+            "scientificName": "Citrullus lanatus",
+            "availability": "Worldwide",
+            "description": "Watermelon is a refreshing and hydrating fruit with sweet, pink or red flesh and black seeds. Perfect for summertime, watermelon is enjoyed in slices, salads, and beverages. It not only satisfies thirst but also provides essential vitamins and antioxidants.",
+            "imageName": "watermelon",
+            "isFavorite": false,
+            "isFeatured": false
+        }
+]
